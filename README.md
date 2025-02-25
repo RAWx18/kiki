@@ -101,7 +101,7 @@ We’re building **Kiki together!** Join our [Discord Server](https://discord.gg
 
 ### 💡 **Suggest New Features!**  
 Have an idea to make Kiki better? Submit your feature requests here:  
-[📩 Feature Request Form](https://forms.gle/your-google-form-link)  
+[📩 Feature Request Form](https://forms.gle/m6965mdztYdE6A8i6)  
 
 ### 🛠️ Contributing  
 Kiki is **open-source** and we want it to be **shaped by the community**! 🚀 If you’d like to contribute:  
