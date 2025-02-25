@@ -7,8 +7,6 @@
 </div>
 
 
----
-
 ## 🐱 Why is Kiki a Cat?
 
 **Because cats have been the ultimate coding companions for years!**  
