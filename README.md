@@ -69,7 +69,7 @@ Developers often face **repetitive tasks and complex environment setups** that s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/kiki.git
+   git clone https://github.com/RAWx18/kiki
    cd kiki
    ```
 
