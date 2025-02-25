@@ -24,9 +24,6 @@ Developers often face **repetitive tasks and complex environment setups** that s
 - **Streamlining Workflows:** Enjoy seamless **integration of development tasks, system diagnostics, and personal scheduling**—all from a single, intuitive interface.  
 - **Providing a Friendly Companion:** Kiki isn't just a tool—it’s a **developer buddy** that offers **voice and text interactions**, helps manage your schedule, and even provides a **friendly chat during long coding sessions.**  
 
-<div align="center">
-    <img src="kiki_logo.png" width="400" height="300" />
-</div>
 ---
 
 ## 🚀 Key Features
@@ -127,6 +124,10 @@ Kiki is **open-source** and we want it to be **shaped by the community**! 🚀 I
 Kiki is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
+
+<div align="center">
+    <img src="kiki_logo.png" width="400" height="300" />
+</div>
 
 ✨ **With Kiki by your side, let every coding session be as enjoyable and productive as possible.**  
 💻 **Say goodbye to tedious tasks and hello to your new AI-powered developer companion!** 🚀🐱
