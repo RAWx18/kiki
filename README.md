@@ -2,7 +2,10 @@
 
 **Kiki** is more than just an automation tool—it's your **AI-powered developer companion**. Built specifically for Ubuntu-based systems, with a special focus on GPU-centric distributions like Pop!_OS, Kiki automates critical coding workflows while taking care of everyday tasks, so you can focus on what matters most: **writing brilliant code.**
 
-![Alt Text](kiki_playful.gif)
+<div align="center">
+    <img src="kiki_playful.gif" alt="kiki" />
+</div>
+
 
 ---
 
@@ -23,7 +26,9 @@ Developers often face **repetitive tasks and complex environment setups** that s
 - **Streamlining Workflows:** Enjoy seamless **integration of development tasks, system diagnostics, and personal scheduling**—all from a single, intuitive interface.  
 - **Providing a Friendly Companion:** Kiki isn't just a tool—it’s a **developer buddy** that offers **voice and text interactions**, helps manage your schedule, and even provides a **friendly chat during long coding sessions.**  
 
-<img src="kiki_logo.png" width="400" height="300">
+<div align="center">
+    <img src="kiki_logo.png" width="400" height="300" />
+</div>
 ---
 
 ## 🚀 Key Features
