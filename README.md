@@ -64,7 +64,7 @@ Developers often face **repetitive tasks and complex environment setups** that s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/RAWx18/pika
+   git clone https://github.com/RAWx18/pika-dev
    cd pika
    ```
 
@@ -101,7 +101,7 @@ We’re building **Pika together!** Join our [Discord Server](https://discord.gg
 
 ### 💡 **Suggest New Features!**  
 Have an idea to make Pika better? Submit your feature requests here:  
-[📩 Feature Request Form](https://forms.gle/m6965mdztYdE6A8i6)  
+[📩 Feature Request Form](https://forms.gle/kMJHMHGw5NTQWkGB9)  
 
 ### 🛠️ Contributing  
 Pika is **open-source** and we want it to be **shaped by the community**! 🚀 If you’d like to contribute:  
