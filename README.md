@@ -1,28 +1,28 @@
-# Kiki – The Developer's Cat 🚀
+# Pika – The Developer's Cat 🚀
 
-**Kiki** is more than just an automation tool—it's your **AI-powered developer companion**. Built specifically for Ubuntu-based systems, with a special focus on GPU-centric distributions like Pop!_OS, Kiki automates critical coding workflows while taking care of everyday tasks, so you can focus on what matters most: **writing brilliant code.**
+**Pika** is more than just an automation tool—it's your **AI-powered developer companion**. Built specifically for Ubuntu-based systems, with a special focus on GPU-centric distributions like Pop!_OS, Pika automates critical coding workflows while taking care of everyday tasks, so you can focus on what matters most: **writing brilliant code.**
 
 <div align="center">
-    <img src="kiki_playful.gif" alt="kiki" />
+    <img src="pika_playful.gif" alt="pika" />
 </div>
 
 
-## 🐱 Why is Kiki a Cat?
+## 🐱 Why is Pika a Cat?
 
 **Because cats have been the ultimate coding companions for years!**  
 Developers and cats share a unique bond—whether it's a furry friend sitting on your keyboard or just their independent, intelligent nature, cats embody the **perfect assistant** for a coder's lifestyle.  
 
-Kiki, as an AI-powered assistant, **deserves to be a cat**—smart, helpful, and always around to assist you while you work (without knocking over your coffee... hopefully). 🐈‍⬛
+Pika, as an AI-powered assistant, **deserves to be a cat**—smart, helpful, and always around to assist you while you work (without knocking over your coffee... hopefully). 🐈‍⬛
 
 ---
 
-## Why Kiki?
+## Why Pika?
 
-Developers often face **repetitive tasks and complex environment setups** that slow down productivity. Kiki is here to help by:
+Developers often face **repetitive tasks and complex environment setups** that slow down productivity. Pika is here to help by:
 
-- **Automating Routine Tasks:** From setting up **CUDA environments** and managing **Python dependencies** to handling **audio, Bluetooth, and smart LAN connectivity**—Kiki takes care of the busy work.  
+- **Automating Routine Tasks:** From setting up **CUDA environments** and managing **Python dependencies** to handling **audio, Bluetooth, and smart LAN connectivity**—Pika takes care of the busy work.  
 - **Streamlining Workflows:** Enjoy seamless **integration of development tasks, system diagnostics, and personal scheduling**—all from a single, intuitive interface.  
-- **Providing a Friendly Companion:** Kiki isn't just a tool—it’s a **developer buddy** that offers **voice and text interactions**, helps manage your schedule, and even provides a **friendly chat during long coding sessions.**  
+- **Providing a Friendly Companion:** Pika isn't just a tool—it’s a **developer buddy** that offers **voice and text interactions**, helps manage your schedule, and even provides a **friendly chat during long coding sessions.**  
 
 ---
 
@@ -60,12 +60,12 @@ Developers often face **repetitive tasks and complex environment setups** that s
 - **Python 3.7+ installed**.  
 - Additional dependencies (**CUDA, audio libraries**) if required.  
 
-### 📥 Install Kiki
+### 📥 Install Pika
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/RAWx18/kiki
-   cd kiki
+   git clone https://github.com/RAWx18/pika
+   cd pika
    ```
 
 2. **Install Required Dependencies**
@@ -80,7 +80,7 @@ Developers often face **repetitive tasks and complex environment setups** that s
 
 ## 🎙️ Usage
 
-Launch Kiki using:
+Launch Pika using:
 ```bash
 python main.py
 ```
@@ -93,18 +93,18 @@ For full command reference and voice setup, check out the [User Guide](docs/user
 ## 🌟 Community & Contributions
 
 ### 📢 **Join the Discussion on Discord!**  
-We’re building **Kiki together!** Join our [Discord Server](https://discord.gg/g4TMUy3c) to:  
+We’re building **Pika together!** Join our [Discord Server](https://discord.gg/g4TMUy3c) to:  
 ✅ Discuss feature ideas  
 ✅ Get help with setup  
 ✅ Contribute & collaborate  
-✅ Share your experience with Kiki  
+✅ Share your experience with Pika  
 
 ### 💡 **Suggest New Features!**  
-Have an idea to make Kiki better? Submit your feature requests here:  
+Have an idea to make Pika better? Submit your feature requests here:  
 [📩 Feature Request Form](https://forms.gle/m6965mdztYdE6A8i6)  
 
 ### 🛠️ Contributing  
-Kiki is **open-source** and we want it to be **shaped by the community**! 🚀 If you’d like to contribute:  
+Pika is **open-source** and we want it to be **shaped by the community**! 🚀 If you’d like to contribute:  
 - Check out our **[Contribution Guidelines](CONTRIBUTING.md)**.  
 - Submit **pull requests** for new features, bug fixes, or optimizations.  
 - Open issues if you find **bugs or have feature suggestions**.  
@@ -113,21 +113,22 @@ Kiki is **open-source** and we want it to be **shaped by the community**! 🚀 I
 
 ## 📅 Project Timeline  
 
-🚀 **Project started by:** Ryan (**RAWx18**) – A student & AI developer passionate about making Kiki the best developer assistant! 
+🚀 **Project started by:** Ryan (**RAWx18**) – A student & AI developer passionate about making Pika the best developer assistant!  
 📅 **First batch of code will be uploaded on** → **March 10, 2025**  
-📢 After launch, we’d love for **developers to take Kiki as their project & contribute** to make it an **indispensable developer companion!**  
+📢 After launch, we’d love for **developers to take Pika as their project & contribute** to make it an **indispensable developer companion!**  
 
 ---
 
 ## 📜 License
 
-Kiki is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+Pika is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
 <div align="center">
-    <img src="kiki_logo.png" width="400" height="300" />
+    <img src="pika_logo.png" width="400" height="300" />
 </div>
 
-✨ **With Kiki by your side, let every coding session be as enjoyable and productive as possible.**  
+✨ **With Pika by your side, let every coding session be as enjoyable and productive as possible.**  
 💻 **Say goodbye to tedious tasks and hello to your new AI-powered developer companion!** 🚀🐱
+
